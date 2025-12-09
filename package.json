@@ -1,0 +1,25 @@
+{
+  "name": "vapeur",
+  "version": "1.0.0",
+  "description": "Vous avez été choisis pour développer Vapeur, une application web qui permet de gérer une collection de jeux vidéo. Bravo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayorie/repertoire-de-jeux-videos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayorie/repertoire-de-jeux-videos/issues"
+  },
+  "homepage": "https://github.com/mayorie/repertoire-de-jeux-videos#readme",
+  "dependencies": {
+    "@prisma/client": "^6.1.0",
+    "express": "^5.2.1",
+    "prisma": "^6.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
