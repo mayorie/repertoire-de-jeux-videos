@@ -25,7 +25,7 @@ Lancer l'application en local
 npm start
 ?
 
-
+----------------------------------------------------------------------------------------------------------------------
 partage du travail :
 
 #page d'accueil : 
@@ -65,3 +65,9 @@ partage du travail :
 14-Suppression d'un éditeur
 
 12-Afficher la liste des jeux d'un éditeur sur une page dédiée
+
+---------------------------------------------------------------------------------------------------------------
+bd: 
+jeu |id |titre| desc| date |mise en avant| idgenre| id editeur| 
+editeur| id |nom| 
+genre |id |nom|
