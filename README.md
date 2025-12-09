@@ -1,13 +1,15 @@
-#futur readme
+## commandes : 
 
-##commandes : 
+### commandes d'initialisation : 
 
-npx prisma migrate dev : pour création de base de données
 npm install : pour installer tout les modules.
+npx prisma migrate dev : pour création de base de données
+
+### commandes intéressantes : 
+
 npx prisma studio : prisma studio
 
-
-##actions du prof : 
+## actions du prof : 
 
 Aller dans le dossier du projet cloné
 cd Vapeur
